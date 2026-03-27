@@ -143,6 +143,8 @@ The project is deployed using Streamlit Cloud via GitHub integration.
 This project demonstrates how Ridge Regression can be used effectively for real-world prediction problems while handling correlated features.
 
 ---
+want to test the project :
+Run real time - https://8isml5cj5msctjadzmeqse.streamlit.app/
 
 ## ✍️ Author
 
